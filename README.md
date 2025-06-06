@@ -136,7 +136,7 @@ Each device is individually controllable via natural language, either typed or s
 
 | Dashboard 1 | Dashboard 2 | 
 |----------|-----------|
-| ![image](https://github.com/user-attachments/assets/9d835277-b543-4c07-a172-1a384b1cbff6) | ![image](https://github.com/user-attachments/assets/68fd2bd7-03e5-494a-9d63-9c954e2c4a4a) |
+| ![image](https://github.com/user-attachments/assets/d9505c35-a0d3-4a9f-9318-301f669f7372) | ![image](https://github.com/user-attachments/assets/68fd2bd7-03e5-494a-9d63-9c954e2c4a4a) |
 
 ---
 
