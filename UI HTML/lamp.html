@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Smart Lamp Status</title>
+    <style>
+        body {
+            background-color: #1e1e1e;
+            color: #fff;
+            text-align: center;
+            font-family: 'Segoe UI', sans-serif;
+        }
+        .lamp-frame {
+            margin: 80px auto;
+            width: 300px;
+            height: 300px;
+            border-radius: 50%;
+            background-color: #444;
+            box-shadow: 0 0 20px rgba(255, 255, 0, 0.6);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 28px;
+            transition: all 0.5s ease-in-out;
+        }
+        .off {
+            background-color: #222;
+            box-shadow: none;
+            color: #888;
+        }
+        h1 {
+            margin-top: 40px;
+            font-size: 32px;
+            color: #ffeb3b;
+        }
+        a {
+            display: inline-block;
+            margin-top: 30px;
+            color: #ffcc00;
+            font-size: 18px;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        a:hover {
+            color: #fff176;
+        }
+    </style>
+</head>
+<body>
+    <h1>💡 Smart Lamp</h1>
+    <div class="lamp-frame {{ 'off' if state == 'off' else '' }}">
+        {{ 'Lamp is ON' if state == 'on' else 'Lamp is OFF' }}
+    </div>
+    <a href="/" title="Go back">⬅️ Back to Assistant</a>
+</body>
+</html>
