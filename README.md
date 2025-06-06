@@ -136,8 +136,7 @@ Each device is individually controllable via natural language, either typed or s
 
 | Dashboard | TV Status | AC Control | Voice Recording |
 |----------|-----------|------------|-----------------|
-| ![dash](![image](https://github.com/user-attachments/assets/9d835277-b543-4c07-a172-1a384b1cbff6)
-) | ![tv](screenshots/tv_status.png) | ![ac](screenshots/ac_status.png) | ![voice](screenshots/record.png) |
+| (![image](https://github.com/user-attachments/assets/9d835277-b543-4c07-a172-1a384b1cbff6) | ![tv](screenshots/tv_status.png) | ![ac](screenshots/ac_status.png) | ![voice](screenshots/record.png) |
 
 ---
 
