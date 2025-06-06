@@ -144,6 +144,7 @@ Each device is individually controllable via natural language, either typed or s
 
 **Dicardo Ng**  
 IoT Developer | AI Engineer | Web Full-Stack Developer  
+
 📧 Email: [aminkianiworkeng@gmail.com] + [radaghakhani@gmail.com]
 
 🌐 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
